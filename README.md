@@ -9,6 +9,8 @@
 
  - `1` 6-data pin header for motor driver (L298N)
 
+ - `1` 3-data pin header for sg90 servo motor
+
  - `1` MPU6050 IMU sensor
 
  - `1` Power jack
